@@ -1,0 +1,10 @@
+pipeline:
+  input_path: "data/"
+  output_path: "output/"
+
+qos:
+  buffering_green_threshold: 0.05
+  buffering_red_threshold: 0.35
+  buffering_weight: 0.5
+  quality_weight: 0.3
+  stability_weight: 0.2
