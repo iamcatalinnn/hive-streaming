@@ -39,6 +39,14 @@ viewer heartbeat (~30 second intervals).
 
 ---
 
+## Dashboard Preview
+
+<p align="center">
+  <img src="docs/images/dashboard.png" alt="Hive Streaming QoS Dashboard" width="100%">
+</p>
+
+> Interactive QoS analytics dashboard built with Streamlit and Plotly
+
 ## Project Structure
 
 ```
